@@ -10,6 +10,6 @@ For more information about this game, you can see [this link](https://www.memozo
 <img src="https://github.com/fark00/Simon-Game/blob/master/Run.gif">
 
 ## Implementation
-<img src="https://github.com/fark00/Simon-Game/blob/master/Circuit1.jpg">
+<img src="https://github.com/fark00/Simon-Game/blob/master/Circuit1.jpg" width="600" height="800">
 
 <img src="https://github.com/fark00/Simon-Game/blob/master/Circuit2.jpg">
