@@ -16,8 +16,8 @@ For more information about this game, you can see [this link](https://www.memozo
 
 ## Requirment
 
-* Atmel Studio (or CodeVision) 
-* Proteus 8.9
+* Atmel Studio 7.0 (or CodeVisionAVR.3.12) 
+* Proteus Pro v8.9
 
 ## Support
 
