@@ -13,3 +13,25 @@ For more information about this game, you can see [this link](https://www.memozo
 <img src="https://github.com/fark00/Simon-Game/blob/master/Circuit1.jpg" width="500" height="380">
 
 <img src="https://github.com/fark00/Simon-Game/blob/master/Circuit2.jpg" width="500" height="380">
+
+## Requirment
+
+* Atmel Studio (or CodeVision) 
+* Proteus 8.9
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/fark00/Simon-Game/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/fark00)
