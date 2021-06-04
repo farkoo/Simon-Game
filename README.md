@@ -19,6 +19,7 @@ For more information about this game, you can see [this link](https://www.memozo
 * Atmel Studio 7.0 (or CodeVisionAVR.3.12) 
 * Proteus Pro v8.9
 
+
 ## Support
 
 **Contact me @:**
@@ -32,6 +33,6 @@ Telegram id:
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
 ## License
-[MIT](https://github.com/fark00/Simon-Game/blob/master/LICENSE)
+[MIT](https://github.com/farkoo/CV-with-Matlab/blob/master/LICENSE)
 &#0169; 
-[Farzaneh Koohestani](https://github.com/fark00)
+[Farzaneh Koohestani](https://github.com/farkoo)
